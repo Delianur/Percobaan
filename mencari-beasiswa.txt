@@ -2,7 +2,9 @@ Rencana mencari beasiswa
 - Mencari informasi tentang beasiswa
 - Belajar Bahasa Inggris
 - Mempersiapkan dokumen
+  * mencari sworn translatter
   * terjemahan dokumen
+  * mencari sworn document legalizer
   * legalisasi dokumen
 - Test Bahasa Inggris pertama
 - Belajar lagi bahasa inggris 
